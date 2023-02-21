@@ -1,406 +1,382 @@
 
 ***
 
-# <projectName>
+# Anime Studio Documentation
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
-
-# By:
-
-<!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
-
-## [Seanpm2001](https://github.com/seanpm2001/), [<developerName>](https://github.com/<developerName>/) Et; Al.
-
-
-### Top
-
-# `README.md`
+This is the documentation repository for the [`Anime Studio software suite`](https://github.com/seanpm2001/Anime_Studio/)
 
 ***
 
-## Read this article in a different language
+## Developers
 
-**Sorted by:** `A-Z`
+TODO:
 
-[Sorting options unavailable](https://github.com/<developerName>/<repoName>)
-
-( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
-
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/<developerName>/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
-
-Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't the intended page. You will be redirected to the [.github folder](/.github/) of this project, where the README translations are hosted.
-
-Translations are currently done with Bing translate and DeepL. Support for Google Translate translations is coming to a close due to privacy concerns.
+- [ ] Expand documentation
+- [ ] Separate documentation into multiple pages
+- [ ] Translate documentation
+- [ ] Improve documentation
 
 ***
 
-# Index
+## Projects
 
-[00.0 - Top](#Top)
+### Anime Studio
 
-> [00.1 - Title](#<projectName>)
+**Repository:** [:octocat: `Anime Studio on GitHub`](https://github.com/seanpm2001/Anime_Studio/)
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+This is the core Anime Studio repository. It is the homepage of the projects development, and contains a general distribution of the program.
 
-> [00.3 - Index](#Index)
+### Anime Studio Docs
 
-[01.0 - Description](#RepositoryName)
+**Repository:** [:octocat: `Anime Studio: Docs on GitHub`](https://github.com/seanpm2001/Anime_Studio_Docs/)
 
-[02.0 - About](#About)
+This is the core documentation repository for the Anime Studio project.
 
-[03.0 - Wiki](#Wiki)
+### Anime Studio OpenAnime
 
-[04.0 - History](#History)
+**Repository:** [:octocat: `Anime Studio: OpenAnime on GitHub`](https://github.com/seanpm2001/Anime_Studio_OpenAnime/)
 
-> [04.1 - Pre-history](#Pre-history)
+OpenAnime is a project similar to the Blender foundations community movie series, except instead of being made in Blender, it is made in Anime Studio. This project was my accepted compromise for not putting a restrictive license for this project. The original plan was to disallow copyrighted works from being created with the software. I knew this was too strict, and I agreed that a constant event that promoted open source, royalty free, and public domain Anime projects would be the best solution.
 
-> [04.2 - Alpha History](#Alpha-history)
+There will be multiple events going on at once. The OpenAnime project aims to include only Anime that is royalty free and copyleft, and every entry in the series has to be fully distributable and remixable.
 
-> [04.3 - Beta History](#Beta-history)
+### Anime Studio AnimAI
 
-> [04.4 - Modern History](#Modern-history)
+**Repository:** [:octocat: `Anime Studio: AnimAI on GitHub`](https://github.com/seanpm2001/Anime_Studio_AnimAI/)
 
-[05.0 - Copying](#Copying)
+AnimAI is an Artificial Intelligence project for the Anime Studio project that enables machine learning functionality into the program. It uses the [:octocat: `AI2001`](https://github.com/seanpm2001/AI2001/) set (which will be started a day after this project is created, on 2023, Tuesday, February 21st) it is used for the chatbot, and some other features in the project.
 
-[06.0 - Credits](#Credits)
+### Anime Studio Manga Studio
 
-[07.0 - Installation](#Installation)
+**Repository:** [:octocat: `Anime Studio: Manga Studio on GitHub`](https://github.com/seanpm2001/Anime_Studio_Manga-Studio/)
 
-[08.0 - Version history](#Version-history)
+The Anime Studio Manga Studio is a manga viewer and editor that is part of the Anime Studio project. It allows for easy creation and viewing of Manga.
 
-[09.0 - Version history](#Version-history)
+### Anime Studio Subs and Dubs
 
-[10.0 - Software status](#Software-status)
+**Repository:** [:octocat: `Anime Studio: Subs and Dubs on GitHub`](https://github.com/seanpm2001/Anime_Studio_Subs-and-Dubs/)
 
-[11.0 - Sponsor info](#Sponsor-info)
+The Anime Studio Subs and Dubs component is an Anime subtitle and dubbing tool that is part of the Anime Studio project. It is written in Red and WebVTT. It incorporates the [Anime Studio Subtitle tool](#Anime-Studio-Subtitle-Tool)
 
-[12.0 - Contributers](#Contributers)
+### Anime Studio Video Editor
 
-[13.0 - Issues](#Issues)
+**Repository:** [:octocat: `Anime Studio: Video Editor on GitHub`](https://github.com/seanpm2001/Anime_Studio_Video-Editor/)
 
-> [13.1 - Current issues](#Current-issues)
+The Anime Studio Video Editor is the videoo editing component of Anime Studio that lets you edit and play your Anime.  It is written in C, WebVTT, Raku, Red, anf Gosu.
 
-> [13.2 - Past issues](#Past-issues)
+### Anime Studio Application Core
 
-> [13.3 - Past pull requests](#Past-pull-requests)
+**Repository:** [:octocat: `Anime Studio: Application Core on GitHub`](https://github.com/seanpm2001/Anime_Studio_ApplicationCore/)
 
-> [13.4 - Active pull requests](#Active-pull-requests)
+The Anime Studio Application Core is the application framework for the Anime Studio project. It contains all of the necessary tools to set the project up as an application. It is written mainly in Gosu and Raku.
 
-[14.0 - Resources](#Resources)
+### Anime Studio Hentai
 
-[15.0 - Contributing](#Contributing)
+**Repository:** [:octocat: `Anime Studio: Hentai on GitHub`](https://github.com/seanpm2001/Anime_Studio_Hentai/)
 
-[16.0 - About README](#About-README)
+The Anime Studio Hentai project is the application mode of Anime Studio for creating hentai and other sexual Anime content. It is a restricted feature. There are no tools for creating Lolicon or other child pornography, but due to the softwares free nature, restrictions won't be made against those that make such material, although there is still the legal consequence for the creator based on their countries jurisdictions.
 
-[17.0 - README Version history](#README-version-history)
+The hentai software piece is written in C, Raku, and WebVTT.
 
-[18.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+### Anime Studio Avatar Studio
 
-> [18.9 - End of file](#EOF)
+**Repository:** [:octocat: `Anime Studio: Avatar Studio on GitHub`](https://github.com/seanpm2001/Anime_Studio_AvatarStudio/)
+
+The Anime Studio Avatar Studio is a software piece optimized to create, render, and share Anime and Manga characters in a specialized editor. The project is written in Raku and Red.
+
+### Anime Studio Style Manager
+
+**Repository:** [:octocat: `Anime Studio: Style Manager on GitHub`](https://github.com/seanpm2001/Anime_Studio_StyleManager/)
+
+The Anime Studio Style Manager is a software piece designed to define styles of Anime artwork, and create templates for artwork in these styles. The project is written in Red.
+
+### Anime Studio Library
+
+**Repository:** [:octocat: `Anime Studio: Library on GitHub`](https://github.com/seanpm2001/Anime_Studio_Library/)
+
+The Anime Studio Library is a media library of usable Anime and Manga media that can be used in your project. It is written in C, Gosu, and Raku.
+
+### Anime Studio Exporter
+
+**Repository:** [:octocat: `Anime Studio: Exporter on GitHub`](https://github.com/seanpm2001/Anime_Studio_Exporter/)
+
+The Anime Studio exporter is a plugin for Anime Studio that allows the export of your Anime and/or Manga. It is written in C and Gosu.
+
+### Anime Studio Image Editor
+
+**Repository:** [:octocat: `Anime Studio: Image Editor on GitHub`](https://github.com/seanpm2001/Anime_Studio_Image-Editor/)
+
+The Anime Studio image editor is a raster and vector image editor for Anime Studio that lets you draw images for your Anime and/or Manga. It is written in C, Gosu, Raku, and Red.
+
+### Anime Studio Audio Editor
+
+**Repository:** [:octocat: `Anime Studio: Audio Editor on GitHub`](https://github.com/seanpm2001/Anime_Studio_Audio-Editor/)
+
+The Anime Studio audio editor is a tool for creating audio for your Anime. It has special features for pitch adjustment, dubbing, and more. It is written in C, Gosu, Raku, and Red.
+
+### Anime Studio SocialShare
+
+**Repository:** [:octocat: `Anime Studio: SocialShare on GitHub`](https://github.com/seanpm2001/Anime_Studio_SocialShare/)
+
+The Anime Studio SocialShare component is a plugin for Anime Studio that lets you share your Anime directly to the Internet, with support for live streaming. It is written in Gosu and Red.
+
+### Anime Studio Website
+
+**Repository:** [:octocat: `Anime Studio: Website on GitHub`](https://github.com/seanpm2001/Anime_Studio_Website/)
+
+The Anime Studio website repository is the repository hosting the source code fo rthe original Anime Studio website. It is written in Markdown and Ruby.
+
+### Anime Studio ChatBot
+
+**Repository:** [:octocat: `Anime Studio: ChatBot on GitHub`](https://github.com/seanpm2001/Anime_Studio_ChatBot/)
+
+The Anime Studio ChatBot component is a Anime ChatBot used as a separate component in Anime Studio. It uses the AnimAI framework. It is written in Prolog, Red, and Gosu.
+
+### Anime Studio Subtitle Tool
+
+**Repository:** [:octocat: `Anime Studio: Subtitle Tool on GitHub`](https://github.com/seanpm2001/Anime_Studio_SubtitleTool/)
+
+The Anime Studio subtitle tool is a subtitle editor and manager that is part of Anime Studio. It is written in Raku and WebVTT.
+
+### Anime Studio Game Studio
+
+**Repository:** [:octocat: `Anime Studio: Game Studio on GitHub`](https://github.com/seanpm2001/Anime_Studio_Game-Studio/)
+
+The Anime Studio Game Studio is a game engine for Anime Studio built on GoDot, with improvements and enhancements designed for Anime games and software. It is written in Ren'Py, Gosu, Ruby, and Red.
 
 ***
 
-# <repoName>
-<repo_description>
+## Translations
+
+Anime Studio is currently only available in English. Translations are done via machine translation, with errors being ironed out gradually. Translations are separated into priority groups.
+
+### Priority groups
+
+Anime Studio has the following priority groups:
+
+> **Note** A `⭐️` indicates the highest priority of the group.
+
+[Common group]
+
+- English ⭐️
+- Spanish
+- French
+- German
+- Arabic (VARIANT)
+
+[Europe group A]
+
+- Finnish
+- Danish
+- Dutch
+- Swedish ⭐️
+- Icelandic
+- Czech
+- Slovak
+- Slovenian
+- Lithuanian
+- Estonian
+- Greek
+- Polish
+- Hungarian
+- Serbian
+
+[Europe group B]
+
+- Albanian
+- Russian
+- Chechen
+- Turkish
+- Ukrainian ⭐️
+- Tatar
+- Belarusian
+
+[Asia group A]
+
+- Japanese ⭐️
+- Korean (South)
+- Korean (North)
+- Chinese (Traditional)
+- Chinese (Simplified)
+
+[Asia group B]
+
+- Thai ⭐️
+- Armenian
+- Vietnamese
+- Azerbaijan
+- Kyrgyz
+
+[Asia group C]
+
+- Arabic (VARIANT) ⭐️
+
+[Asia group D]
+
+- Telugu
+- Tamil
+- Punjabi
+- Sanskrit
+- Hindi ⭐️
+- Nepali
+- Urdu
 
 ***
 
-## About
+## Inspiration
 
-See above. <extendedRepoDescription>
-
-***
-
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/<developerName>/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+The idea for the project stemmed from the need for less copyright protected Anime media, as copyright adds hostility, and makes the community weaker. It also stems from inspiration from the English Ghost Stories Anime dub, as it proves that one can completely change the story of an Anime without diverting from the plot. I also found it funny, and it got me thinking: what if more Anime was like this? What if you could dub it yourself, and have that dub be its own series?
 
 ***
 
-## History
+## Development
 
-Write about this projects history here.
+The Anime Studio project started 10 days of initial development on 2023, February 20th, with 2 repositories being created per day, 20 total, with plans to finish creating new repositories on 2023, March 1st.
 
-### Pre-history
+### Planned timeline
 
-No pre-history to show for this project.
-
-### Alpha history
-
-No Alpha history to show for this project.
-
-### Beta history
-
-No Beta history to show for this project.
-
-### Modern history
-
-No Modern history to show for this project.
-
-***
-
-## Copying
-
-View the copying license for this project [here](/COPYING) (if you haven't built the project yet with the makefile, here is the original link: [COPYINGL](/COPYINGL)
-
-Please note that you also have to follow the rules of the GNU General Public License v3 (GPL3) which you can view [here](/LICENSE.txt)
-
-***
-
-## Credits
-
-View the credits file for this project and see the people who got together to make this project by [clicking/tapping here](/CREDITS)
+```
+Anime_Studio { Raku, Gosu, C } | 01 | Day 1 |
+Anime_Studio_Docs { Markdown } | 02 | Day 1 |
+Anime_Studio_OpenAnime { Projects } { WebVTT, Markdown } | 03 | Day 2 |
+Anime_Studio_AnimAI { Prolog, Red } | 04 | Day 2 |
+Anime_Studio_Manga-Studio { Ren'Py, Gosu } | 05 | Day 3 |
+Anime_Studio_Subs-and-Dubs { WebVTT, Red } | 06 | Day 3 |
+Anime_Studio_Video-Editor { C, WebVTT, Raku, Red, Gosu } | 07 | Day 4 |
+Anime_Studio_ApplicationCore { Gosu, Raku } | 08 | Day 4 |
+Anime_Studio_Hentai { C, Raku, WebVTT } | 09 | Day 5 |
+Anime_Studio_AvatarStudio { Raku, Red } | 10 | Day 5 |
+Anime_Studio_StyleManager { Red } | 11 | Day 6 |
+Anime_Studio_Library { Raku, Gosu, C } | 12 | Day 6 |
+Anime_Studio_Exporter { C, Gosu } | 13 | Day 7 |
+Anime_Studio_Image-Editor { C, Raku, Gosu, Red } | 14 | Day 7 |
+Anime_Studio_Audio-Editor { C, Raku, Gosu, Red } | 15 | Day 8 |
+Anime_Studio_SocialShare { Gosu, Red } [Social media and other sharing plugin } | 16 | Day 8 |
+Anime_Studio_Website { Ruby, Markdown } | 17 | Day 9 |
+Anime_Studio_ChatBot { Prolog, Red, Gosu } | 18 | Day 9 |
+Anime_Studio_SubtitleTool { WebVTT, Raku } | 19 | Day 10 |
+Anime_Studio_Game-Studio { Ren'Py, Gosu, Ruby, Red } | 20 | Day 10 |
+```
 
 ***
 
-## Installation
+## Programming languages
 
-View the installation instructions file for this project [here](/INSTALL)
+Anime Studio is written in the following programming languages:
 
-Requirements: Read the instructions for more info, and get the latest up-to-date instructions [here](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
+- C
+- Gosu
+- Markdown
+- Prolog
+- Raku
+- Red
+- Ren'Py
+- Ruby
+- WebVTT
 
-***
-
-## Sponsor info
-
-![SponsorButton.png](/SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors/)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+Gosu is one of the main application languages, with Raku coming in second. WebVTT is used purely for subtitles. Markdown and Ruby are used for documentation and web development. Prolog is used for speech synthesis and advanced queries. C is used as a core language. Red is used as a third application and middle language, and Ren'Py is used for visual novel development.
 
 ***
 
-## Version history
+## Not of Japanese origin
 
-**Version history currently unavailable**
-
-**No other versions listed**
+This project is not of Japanese origin, but its development is planned to be worldwide. Anime created with this project in countries other than Japan will be considered Anime styled. Anime created with this project in Japan will be called Anime. The same goes for Manga.
 
 ***
 
-## Software status
+## Supported Genres
 
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
+The following genres are currently supported:
 
-![DRM-free_label.en.svg](/DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am using the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label/)
+- Cooking
+- Harem
+- Isekai
+- Magical Girl
+- Mecha
+- Slice of life
+- Other (suggest one)
 
 ***
 
-## Contributers
+### File info
 
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM, at ##:## a/pm)
+**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-> * 2. No other contributers.
+**File version:** `1 (2023, Monday, February 20th at 5:00 pm PST)`
 
-***
+**Line count (including blank lines and compiler line):** `383`
 
-## Issues
+**Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
-### Current issues
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 
-* None at the moment
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
-* No other current issues
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
 ***
 
-## Resources
+## File history
 
-Here are some other resources for this project:
+<details><summary><p><b>Click/tap here to expand/collapse the file history for this file</b></p></summary>
 
-[Project language file A](PROJECT_LANG_1.<fileExtensionForProgrammingLanguage>)
+<details><summary><p><b>Version 1 (2023, Monday, February 20th at 5:00 pm PST)</b></p></summary>
 
-[Join the discussion on GitHub](https://github.com/<developerName>/<repoName>/discussions)
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
-No other resources at the moment.
+> Changes
 
-***
+- [x] Started the file
+- [x] Added the lead section
+- [x] Added the `Developers` section
+- [x] Added the `Projects` section
+- - [x] Added the `Anime Studio` subsection
+- - [x] Added the `Docs` subsection
+- - [x] Added the `OpenAnime` subsection
+- - [x] Added the `AnimAI` subsection
+- - [x] Added the `Manga Studio` subsection
+- - [x] Added the `Subs and Dubs` subsection
+- - [x] Added the `Video Editor` subsection
+- - [x] Added the `ApplicationCore` subsection
+- - [x] Added the `Hentai` subsection
+- - [x] Added the `Avatar Studio` subsection
+- - [x] Added the `Style Manager` subsection
+- - [x] Added the `Library` subsection
+- - [x] Added the `Exporter` subsection
+- - [x] Added the `Image Editor` subsection
+- - [x] Added the `Audio Editor` subsection
+- - [x] Added the `SocialShare` subsection
+- - [x] Added the `Website` subsection
+- - [x] Added the `ChatBot` subsection
+- - [x] Added the `SubtitleTool` subsection
+- - [x] Added the `Game Studio` subsection
+- [x] Added the `Translations` section
+- [x] Added the `Development` section
+- - [x] Added the `Planned timeline` subsection
+- [x] Added the `Programming languages` section
+- [x] Added the `Not of Japanese origin` section
+- [x] Added the `Supported Genres` section
+- [x] Added the `file info` section
+- - [x] Added the version number
+- - [x] Added the version date
+- - [x] Added the line count
+- [x] Added the `file history` section
+- - [x] Added an entry for version 1
+- [x] Added the footer 
+- [ ] No other changes in version 1
 
-## Contributing
+</details>
 
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](/CONTRIBUTING.md)
-
-***
-
-## About README
-
-**File type:** `Markdown Document (*.md *.mkd *.markdown)`
-
-**File version:** `0.1.6 (Monday, August 23rd 2021 at 6:37 pm)`
-
-**Line count (including blank lines and compiler line):** `0,407`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
-
-> Changes:
-
-> * Started the file
-
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-**ITERATION 5**
-
-> * Updated the title section
-
-> * Updated the index
-
-> * Added the history section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-**ITERATION 6**
-
-> * Updated the title section
-
-> * Fixed and update template links
-
-> * Updated the index
-
-> * Added the copying section
-
-> * Added the credits section
-
-> * Added the installation section
-
-> * Updated the resources section
-
-> * Updated the contributors section
-
-> * Added the technical notes section
-
-> * Updated the footer
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
+</details>
 
 ***
 
-### You have reached the end of the README file
+###### Footer
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
-
-### EOF
+You have reached the end of this page.
 
 ***
