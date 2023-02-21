@@ -221,6 +221,37 @@ Anime Studio has the following priority groups:
 - Nepali
 - Urdu
 
+[Africa group A]
+
+- Somali
+- Arabic (Egyptian)
+- Afrikaans ⭐️
+- Afar
+- Ethiopian
+- Berber
+- Hausa
+- Amharic
+- Hebrew
+
+[Africa group B]
+
+- Tigray
+- Malagasy
+- Gujarati
+- Xhosa
+- Zulu ⭐️
+
+[Oceania group A]
+
+- Hawaiian
+- Māori 
+- Malay ⭐️
+
+[Oceania group B]
+
+- Tagalog ⭐️
+- Samoan
+
 ***
 
 ## Inspiration
@@ -234,6 +265,8 @@ The idea for the project stemmed from the need for less copyright protected Anim
 The Anime Studio project started 10 days of initial development on 2023, February 20th, with 2 repositories being created per day, 20 total, with plans to finish creating new repositories on 2023, March 1st.
 
 ### Planned timeline
+
+<details><summary><p><b>Click/tap here to expand the original timeline</b></p></summary>
 
 ```
 Anime_Studio { Raku, Gosu, C } | 01 | Day 1 |
@@ -258,6 +291,62 @@ Anime_Studio_SubtitleTool { WebVTT, Raku } | 19 | Day 10 |
 Anime_Studio_Game-Studio { Ren'Py, Gosu, Ruby, Red } | 20 | Day 10 |
 ```
 
+</details>
+
+**Day 1**
+
+- [x] [:octocat: Anime_Studio](https://github.com/seanpm2001/Anime_Studio/)
+- [x] [:octocat: Anime_Studio_Docs](https://github.com/seanpm2001/Anime_Studio_Docs/)
+
+**Day 2**
+
+- [x] [:octocat: Anime_Studio_OpenAnime](https://github.com/seanpm2001/Anime_Studio_OpenAnime/)
+- [x] [:octocat: Anime_Studio_AnimAI](https://github.com/seanpm2001/Anime_Studio_AnimAI/)
+
+**Day 3**
+
+- [ ] [:octocat: Anime_Studio_Manga-Studio](https://github.com/seanpm2001/Anime_Studio_Manga-Studio/)
+- [ ] [:octocat: Anime_Studio_Subs-and-Dubs](https://github.com/seanpm2001/Anime_Studio_Subs-and-Dubs/)
+
+**Day 4**
+
+- [ ] [:octocat: Anime_Studio_Video-Editor](https://github.com/seanpm2001/Anime_Studio_Video-Editor/)
+- [ ] [:octocat: Anime_Studio_ApplicationCore](https://github.com/seanpm2001/Anime_Studio_ApplicationCore/)
+
+**Day 5**
+
+- [ ] [:octocat: Anime_Studio_Hentai](https://github.com/seanpm2001/Anime_Studio_Hentai/)
+- [ ] [:octocat: Anime_Studio_AvatarStudio](https://github.com/seanpm2001/Anime_Studio_AvatarStudio/)
+
+**Day 6**
+
+- [ ] [:octocat: Anime_Studio_StyleManager](https://github.com/seanpm2001/Anime_Studio_StyleManager/)
+- [ ] [:octocat: Anime_Studio_Library](https://github.com/seanpm2001/Anime_Studio_Library/)
+
+**Day 7**
+
+- [ ] [:octocat: Anime_Studio_Exporter](https://github.com/seanpm2001/Anime_Studio_Exporter/)
+- [ ] [:octocat: Anime_Studio_Image-Editor](https://github.com/seanpm2001/Anime_Studio_Image-Editor/)
+
+**Day 8**
+
+- [ ] [:octocat: Anime_Studio_Audio-Editor](https://github.com/seanpm2001/Anime_Studio_Audio-Editor/)
+- [ ] [:octocat: Anime_Studio_SocialShare](https://github.com/seanpm2001/Anime_Studio_SocialShare/)
+
+**Day 9**
+
+- [ ] [:octocat: Anime_Studio_Website](https://github.com/seanpm2001/Anime_Studio_Website/)
+- [ ] [:octocat: Anime_Studio_ChatBot](https://github.com/seanpm2001/Anime_Studio_ChatBot/)
+
+**Day 10**
+
+- [ ] [:octocat: Anime_Studio_SubtitleTool](https://github.com/seanpm2001/Anime_Studio_SubtitleTool/)
+- [ ] [:octocat: Anime_Studio_Game-Studio](https://github.com/seanpm2001/Anime_Studio_Game-Studio/)
+
+**Day 11**
+
+- **Not planned**
+
 ***
 
 ## Programming languages
@@ -275,6 +364,8 @@ Anime Studio is written in the following programming languages:
 - WebVTT
 
 Gosu is one of the main application languages, with Raku coming in second. WebVTT is used purely for subtitles. Markdown and Ruby are used for documentation and web development. Prolog is used for speech synthesis and advanced queries. C is used as a core language. Red is used as a third application and middle language, and Ren'Py is used for visual novel development.
+
+I chose languages that sounded Japanese for software diversity purposes, and to fit the theme of the project. These languages are perfectly functional and adequate to program this software.
 
 ***
 
@@ -304,9 +395,9 @@ The following genres are currently supported:
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Monday, February 20th at 5:00 pm PST)`
+**File version:** `2 (2023, Tuesday, February 21st at 11:36 am PST)`
 
-**Line count (including blank lines and compiler line):** `383`
+**Line count (including blank lines and compiler line):** `494`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -368,6 +459,26 @@ The following genres are currently supported:
 - - [x] Added an entry for version 1
 - [x] Added the footer 
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p><b>Version 2 (2023, Tuesday, February 21st at 11:36 am PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Priority languages` section
+- ...
+- - [x] Updated the `Plamned timeline` subsection
+- [x] Updated the `Programming languages` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updatedded the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
 
 </details>
 
