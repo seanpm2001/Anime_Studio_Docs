@@ -20,6 +20,8 @@ TODO:
 
 ## Projects
 
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
 ### Anime Studio
 
 **Repository:** [:octocat: `Anime Studio on GitHub`](https://github.com/seanpm2001/Anime_Studio/)
@@ -144,9 +146,49 @@ The Anime Studio subtitle tool is a subtitle editor and manager that is part of 
 
 The Anime Studio Game Studio is a game engine for Anime Studio built on GoDot, with improvements and enhancements designed for Anime games and software. It is written in Ren'Py, Gosu, Ruby, and Red.
 
+### Anime Studio Manga File Format
+
+**Repository:** [:octocat: `Anime Studio: Manga File Format on GitHub`](https://github.com/seanpm2001/Anime_Studio_Manga-File-Format/)
+
+The Manga File Format is a document file format designed in the Anime Studio that allows for specialized digital viewing and rendering of Manga. It is written in Gosu and Ren'Py.
+
+### Anime Studio Woodblock Printer
+
+**Repository:** [:octocat: `Anime Studio: Woodblock Printer on GitHub`](https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer/)
+
+The Anime Studio Woodblock printer is a software tool for the specialized creation of woodblock artwork. It is written in Gosu and Raku.
+
+### Anime Studio Dictionary
+
+**Repository:** [:octocat: `Anime Studio: Dictionary on GitHub`](https://github.com/seanpm2001/Anime_Studio_Dictionary/)
+
+The Anime Studio dictionary is a dictionary for terms related to Anime and its associated and related culture. It is written in Ruby and Raku.
+
+### Anime Studio Encyclopedia
+
+**Repository:** [:octocat: `Anime Studio: Encyclopedia on GitHub`](https://github.com/seanpm2001/Anime_Studio_Encyclopedia/)
+
+The Anime Studio encyclopedia is an encylopedia for terms related to Anime and its associated and related culture. It is written in Ruby and Raku.
+
+### Anime Studio Glossary
+
+**Repository:** [:octocat: `Anime Studio: Glossary on GitHub`](https://github.com/seanpm2001/Anime_Studio_Glossary/)
+
+The Anime Studio glossary is a glossary for terms related to Anime and its associated and related culture. It is written in Ruby and Raku.
+
+### Anime Studio Wiki
+
+**Repository:** [:octocat: `Anime Studio: Wiki on GitHub`](https://github.com/seanpm2001/Anime_Studio_Wiki/)
+
+The Anime Studio Wiki is an wiki for terms related to Anime and its associated and related culture. It is written in Ruby and Raku.
+
+</details>
+
 ***
 
 ## Translations
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 Anime Studio is currently only available in English. Translations are done via machine translation, with errors being ironed out gradually. Translations are separated into priority groups.
 
@@ -154,9 +196,13 @@ Anime Studio is currently only available in English. Translations are done via m
 
 Anime Studio has the following priority groups:
 
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
 > **Note** A `⭐️` indicates the highest priority of the group.
 
 [Common group]
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 - English ⭐️
 - Spanish
@@ -164,7 +210,11 @@ Anime Studio has the following priority groups:
 - German
 - Arabic (VARIANT)
 
+</details>
+
 [Europe group A]
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 - Finnish
 - Danish
@@ -181,7 +231,11 @@ Anime Studio has the following priority groups:
 - Hungarian
 - Serbian
 
+</details>
+
 [Europe group B]
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 - Albanian
 - Russian
@@ -191,7 +245,11 @@ Anime Studio has the following priority groups:
 - Tatar
 - Belarusian
 
+</details>
+
 [Asia group A]
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 - Japanese ⭐️
 - Korean (South)
@@ -199,7 +257,11 @@ Anime Studio has the following priority groups:
 - Chinese (Traditional)
 - Chinese (Simplified)
 
+</details>
+
 [Asia group B]
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 - Thai ⭐️
 - Armenian
@@ -207,11 +269,19 @@ Anime Studio has the following priority groups:
 - Azerbaijan
 - Kyrgyz
 
+</details>
+
 [Asia group C]
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 - Arabic (VARIANT) ⭐️
 
+</details>
+
 [Asia group D]
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 - Telugu
 - Tamil
@@ -221,7 +291,11 @@ Anime Studio has the following priority groups:
 - Nepali
 - Urdu
 
+</details>
+
 [Africa group A]
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 - Somali
 - Arabic (Egyptian)
@@ -233,7 +307,11 @@ Anime Studio has the following priority groups:
 - Amharic
 - Hebrew
 
+</details>
+
 [Africa group B]
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 - Tigray
 - Malagasy
@@ -241,22 +319,40 @@ Anime Studio has the following priority groups:
 - Xhosa
 - Zulu ⭐️
 
+</details>
+
 [Oceania group A]
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 - Hawaiian
 - Māori 
 - Malay ⭐️
 
+</details>
+
 [Oceania group B]
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 - Tagalog ⭐️
 - Samoan
+
+</details>
+
+</details>
+
+</details>
 
 ***
 
 ## Inspiration
 
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
 The idea for the project stemmed from the need for less copyright protected Anime media, as copyright adds hostility, and makes the community weaker. It also stems from inspiration from the English Ghost Stories Anime dub, as it proves that one can completely change the story of an Anime without diverting from the plot. I also found it funny, and it got me thinking: what if more Anime was like this? What if you could dub it yourself, and have that dub be its own series?
+
+</details>
 
 ***
 
@@ -265,6 +361,8 @@ The idea for the project stemmed from the need for less copyright protected Anim
 The Anime Studio project started 10 days of initial development on 2023, February 20th, with 2 repositories being created per day, 20 total, with plans to finish creating new repositories on 2023, March 1st.
 
 ### Planned timeline
+
+This is a timeline of the development of the Anime Studio project.
 
 <details><summary><p><b>Click/tap here to expand the original timeline</b></p></summary>
 
@@ -293,63 +391,112 @@ Anime_Studio_Game-Studio { Ren'Py, Gosu, Ruby, Red } | 20 | Day 10 |
 
 </details>
 
+The daily timeline is a timeline of the development of Anime Studio repositories by the day they were created.
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this timeline]</b></p></summary>
+
 **Day 1**
+
+_2023, Monday, February 20th._
 
 - [x] [:octocat: Anime_Studio](https://github.com/seanpm2001/Anime_Studio/)
 - [x] [:octocat: Anime_Studio_Docs](https://github.com/seanpm2001/Anime_Studio_Docs/)
 
 **Day 2**
 
+_2023, Tuesday, February 21st._
+
 - [x] [:octocat: Anime_Studio_OpenAnime](https://github.com/seanpm2001/Anime_Studio_OpenAnime/)
 - [x] [:octocat: Anime_Studio_AnimAI](https://github.com/seanpm2001/Anime_Studio_AnimAI/)
 
 **Day 3**
 
-- [ ] [:octocat: Anime_Studio_Manga-Studio](https://github.com/seanpm2001/Anime_Studio_Manga-Studio/)
-- [ ] [:octocat: Anime_Studio_Subs-and-Dubs](https://github.com/seanpm2001/Anime_Studio_Subs-and-Dubs/)
+_2023, Wednesday, February 22nd._
+
+- [x] [:octocat: Anime_Studio_Manga-Studio](https://github.com/seanpm2001/Anime_Studio_Manga-Studio/)
+- [x] [:octocat: Anime_Studio_Subs-and-Dubs](https://github.com/seanpm2001/Anime_Studio_Subs-and-Dubs/)
 
 **Day 4**
 
-- [ ] [:octocat: Anime_Studio_Video-Editor](https://github.com/seanpm2001/Anime_Studio_Video-Editor/)
-- [ ] [:octocat: Anime_Studio_ApplicationCore](https://github.com/seanpm2001/Anime_Studio_ApplicationCore/)
+_2023, Thursday, February 23rd._
+
+- [x] [:octocat: Anime_Studio_Video-Editor](https://github.com/seanpm2001/Anime_Studio_Video-Editor/)
+- [x] [:octocat: Anime_Studio_ApplicationCore](https://github.com/seanpm2001/Anime_Studio_ApplicationCore/)
 
 **Day 5**
 
-- [ ] [:octocat: Anime_Studio_Hentai](https://github.com/seanpm2001/Anime_Studio_Hentai/)
-- [ ] [:octocat: Anime_Studio_AvatarStudio](https://github.com/seanpm2001/Anime_Studio_AvatarStudio/)
+_2023, Friday, February 24th._
+
+- [x] [:octocat: Anime_Studio_Hentai](https://github.com/seanpm2001/Anime_Studio_Hentai/)
+- [x] [:octocat: Anime_Studio_AvatarStudio](https://github.com/seanpm2001/Anime_Studio_AvatarStudio/)
 
 **Day 6**
 
-- [ ] [:octocat: Anime_Studio_StyleManager](https://github.com/seanpm2001/Anime_Studio_StyleManager/)
-- [ ] [:octocat: Anime_Studio_Library](https://github.com/seanpm2001/Anime_Studio_Library/)
+_2023, Saturday, February 25th._
+
+- [x] [:octocat: Anime_Studio_StyleManager](https://github.com/seanpm2001/Anime_Studio_StyleManager/)
+- [x] [:octocat: Anime_Studio_Library](https://github.com/seanpm2001/Anime_Studio_Library/)
 
 **Day 7**
 
-- [ ] [:octocat: Anime_Studio_Exporter](https://github.com/seanpm2001/Anime_Studio_Exporter/)
-- [ ] [:octocat: Anime_Studio_Image-Editor](https://github.com/seanpm2001/Anime_Studio_Image-Editor/)
+_2023, Sunday, February 26th._
+
+- [x] [:octocat: Anime_Studio_Exporter](https://github.com/seanpm2001/Anime_Studio_Exporter/)
+- [x] [:octocat: Anime_Studio_Image-Editor](https://github.com/seanpm2001/Anime_Studio_Image-Editor/)
 
 **Day 8**
 
-- [ ] [:octocat: Anime_Studio_Audio-Editor](https://github.com/seanpm2001/Anime_Studio_Audio-Editor/)
-- [ ] [:octocat: Anime_Studio_SocialShare](https://github.com/seanpm2001/Anime_Studio_SocialShare/)
+_2023, Monday, February 27th._
+
+- [x] [:octocat: Anime_Studio_Audio-Editor](https://github.com/seanpm2001/Anime_Studio_Audio-Editor/)
+- [x] [:octocat: Anime_Studio_SocialShare](https://github.com/seanpm2001/Anime_Studio_SocialShare/)
 
 **Day 9**
 
-- [ ] [:octocat: Anime_Studio_Website](https://github.com/seanpm2001/Anime_Studio_Website/)
-- [ ] [:octocat: Anime_Studio_ChatBot](https://github.com/seanpm2001/Anime_Studio_ChatBot/)
+_2023, Tuesday, February 28th._
+
+- [x] [:octocat: Anime_Studio_Website](https://github.com/seanpm2001/Anime_Studio_Website/)
+- [x] [:octocat: Anime_Studio_ChatBot](https://github.com/seanpm2001/Anime_Studio_ChatBot/)
 
 **Day 10**
 
-- [ ] [:octocat: Anime_Studio_SubtitleTool](https://github.com/seanpm2001/Anime_Studio_SubtitleTool/)
-- [ ] [:octocat: Anime_Studio_Game-Studio](https://github.com/seanpm2001/Anime_Studio_Game-Studio/)
+_2023, Wednesday, March 1st._
+
+- [x] [:octocat: Anime_Studio_SubtitleTool](https://github.com/seanpm2001/Anime_Studio_SubtitleTool/)
+- [x] [:octocat: Anime_Studio_Game-Studio](https://github.com/seanpm2001/Anime_Studio_Game-Studio/)
 
 **Day 11**
 
-- **Not planned**
+_2023, Monday, March 13th._
+
+- [x] [:octocat: Anime Studio Manga File Format](https://github.com/seanpm2001/Anime_Studio_Manga-File-Format/)
+- [x] [:octocat: Anime Studio Woodblock Printer](https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer/)
+
+**Day 12**
+
+_Planned for: 2023, Tuesday, March 14th._
+
+- [ ] [:octocat: Anime Studio Dictionary](https://github.com/seanpm2001/Anime_Studio_Dictionary/)
+- [ ] [:octocat: Anime Studio Encyclopedia[(https://github.com/seanpm2001/Anime_Studio_Encyclopedia/)
+
+**Day 13**
+
+_Planned for: 2023, Wednesday, March 15th._
+
+- [ ] [:octocat: Anime Studio Glossary](https://github.com/seanpm2001/Anime_Studio_Glossary/)
+- [ ] [:octocat: Anime Studio Wiki](https://github.com/seanpm2001/Anime_Studio_Wiki/)
+
+**Day 14**
+
+- **Not yet planned**
+
+</details>
 
 ***
 
 ## Programming languages
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 Anime Studio is written in the following programming languages:
 
@@ -367,15 +514,23 @@ Gosu is one of the main application languages, with Raku coming in second. WebVT
 
 I chose languages that sounded Japanese for software diversity purposes, and to fit the theme of the project. These languages are perfectly functional and adequate to program this software.
 
+</details>
+
 ***
 
 ## Not of Japanese origin
 
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
 This project is not of Japanese origin, but its development is planned to be worldwide. Anime created with this project in countries other than Japan will be considered Anime styled. Anime created with this project in Japan will be called Anime. The same goes for Manga.
+
+</details>
 
 ***
 
 ## Supported Genres
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 The following genres are currently supported:
 
@@ -387,6 +542,8 @@ The following genres are currently supported:
 - Slice of life
 - Other (suggest one)
 
+</details>
+
 ***
 
 ### File info
@@ -395,9 +552,9 @@ The following genres are currently supported:
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2023, Tuesday, February 21st at 11:36 am PST)`
+**File version:** `3 (2023, Monday, March 13th at 2:53 pm PST)`
 
-**Line count (including blank lines and compiler line):** `494`
+**Line count (including blank lines and compiler line):** `692`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -408,6 +565,8 @@ The following genres are currently supported:
 > **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
 > **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details>
 
 ***
 
@@ -470,7 +629,7 @@ The following genres are currently supported:
 
 - [x] Updated the `Priority languages` section
 - ...
-- - [x] Updated the `Plamned timeline` subsection
+- - [x] Updated the `Planned timeline` subsection
 - [x] Updated the `Programming languages` section
 - [x] Updated the `file info` section
 - - [x] Updated the version number
@@ -479,6 +638,45 @@ The following genres are currently supported:
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 2
 - [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p><b>Version 3 (2023, Monday, March 13th at 2:53 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Projects` section
+- - [x] Turned the section into a dropdown
+- - [x] Added the `Manga file format` subsection
+- - [x] Added the `Woodblock printer` subsection
+- - [x] Added the `Dictionary` subsection
+- - [x] Added the `Encyclopedia` subsection
+- - [x] Added the `Glossary` subsection
+- - [x] Added the `Wiki` subsection
+- [x] Updated the `translations` section
+- - [x] Turned the section into a dropdown
+- - [x] Turned the `Priority groups` subsection into a set of dropdowns
+- [x] Updated the `inspiration` section
+- - [x] Turned the section into a dropdown
+- [x] Updated the `programming languages` section
+- - [x] Turned the section into a dropdown
+- [x] Updated the `Not of Japanese origin` section
+- - [x] Turned the section into a dropdown
+- [x] Updated the `Supported genres` section
+- - [x] Turned the section into a dropdown
+- [x] Updated the `Planned timeline` section
+- - [x] Added dates for days 1 to 10
+- - [x] Added support for days 11 to 13
+- - [x] Added a blank entry for day 14
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updatedded the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
 
 </details>
 
