@@ -481,10 +481,10 @@ _2023, Tuesday, March 14th._
 
 **Day 13**
 
-_Planned for: 2023, Wednesday, March 15th._
+_2023, Wednesday, March 15th._
 
-- [ ] [:octocat: Anime Studio Glossary](https://github.com/seanpm2001/Anime_Studio_Glossary/)
-- [ ] [:octocat: Anime Studio Wiki](https://github.com/seanpm2001/Anime_Studio_Wiki/)
+- [x] [:octocat: Anime Studio Glossary](https://github.com/seanpm2001/Anime_Studio_Glossary/)
+- [x] [:octocat: Anime Studio Wiki](https://github.com/seanpm2001/Anime_Studio_Wiki/)
 
 **Day 14**
 
@@ -509,10 +509,13 @@ Anime Studio is written in the following programming languages:
 - Ren'Py
 - Ruby
 - WebVTT
+- WikiText (Wiki repository only)
 
 Gosu is one of the main application languages, with Raku coming in second. WebVTT is used purely for subtitles. Markdown and Ruby are used for documentation and web development. Prolog is used for speech synthesis and advanced queries. C is used as a core language. Red is used as a third application and middle language, and Ren'Py is used for visual novel development.
 
 I chose languages that sounded Japanese for software diversity purposes, and to fit the theme of the project. These languages are perfectly functional and adequate to program this software.
+
+WikiText was added on day 13 of development for 1 repository only.
 
 </details>
 
@@ -552,9 +555,9 @@ The following genres are currently supported:
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Tuesday, March 14th at 6:38 pm PST)`
+**File version:** `5 (2023, Wednesday, March 15th at 3:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `711`
+**Line count (including blank lines and compiler line):** `734`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -696,6 +699,26 @@ The following genres are currently supported:
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p><b>Version 5 (2023, Wednesday, March 15th at 3:37 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Planned timeline` section
+- - [x] Checked in day 13
+- [x] Updated the `Programming languages` section
+- - [x] Included info on the addition of WikiText
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
 
 </details>
 
