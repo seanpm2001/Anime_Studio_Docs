@@ -474,10 +474,10 @@ _2023, Monday, March 13th._
 
 **Day 12**
 
-_Planned for: 2023, Tuesday, March 14th._
+_2023, Tuesday, March 14th._
 
-- [ ] [:octocat: Anime Studio Dictionary](https://github.com/seanpm2001/Anime_Studio_Dictionary/)
-- [ ] [:octocat: Anime Studio Encyclopedia[(https://github.com/seanpm2001/Anime_Studio_Encyclopedia/)
+- [x] [:octocat: Anime Studio Dictionary](https://github.com/seanpm2001/Anime_Studio_Dictionary/)
+- [x] [:octocat: Anime Studio Encyclopedia](https://github.com/seanpm2001/Anime_Studio_Encyclopedia/)
 
 **Day 13**
 
@@ -552,9 +552,9 @@ The following genres are currently supported:
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Monday, March 13th at 2:53 pm PST)`
+**File version:** `4 (2023, Tuesday, March 14th at 6:38 pm PST)`
 
-**Line count (including blank lines and compiler line):** `692`
+**Line count (including blank lines and compiler line):** `711`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -634,7 +634,7 @@ The following genres are currently supported:
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
-- - [x] Updatedded the line count
+- - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 2
 - [ ] No other changes in version 2
@@ -673,10 +673,29 @@ The following genres are currently supported:
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
-- - [x] Updatedded the line count
+- - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p><b>Version 4 (2023, Tuesday, March 14th at 6:38 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Planned timeline` section
+- - [x] Checked in day 12
+- - [x] Fixed a syntax error
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
